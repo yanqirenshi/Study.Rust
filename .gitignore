@@ -1,3 +1,5 @@
 /mysql/target
 /neo4j/target
 /webapi/target
+mysql_sqlx/target
+mysql_sqlx/.env
